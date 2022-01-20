@@ -1,2 +1,2 @@
 # ml_descomplicado
-ML Descomplicado
+Arquivos de estudo de ML
